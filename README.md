@@ -1,2 +1,2 @@
 # Pokedex
-Pokedex app to lookup Pokémon information 
+Pokedex app is a react based app to lookup Pokémons information 
